@@ -1,0 +1,73 @@
+### 🚀 Day 1 of the Bash Scripting Challenge! 🚀
+
+Today, we kicked off our journey into bash scripting, and here’s a recap of what we covered with some practical examples:
+
+**1️⃣ Comments:**
+
+We learned how to add comments to our scripts for clarity.
+
+Example:
+
+```bash
+# This line is a comment and explains the next line of code
+echo "Hello, World!"  # This will print a greeting to the terminal
+
+```
+
+**2️⃣ Echo Command:**
+
+The `echo` command helps us display messages on the terminal.
+
+Example:
+
+```bash
+echo "Welcome to the Bash Scripting Challenge!"
+
+```
+
+**3️⃣ Variables:**
+
+We discovered how to declare and assign values to variables.
+
+Example:
+
+```bash
+a=5
+b=10
+
+```
+
+**4️⃣ Using Variables for Math:**
+
+We created a script to take two numbers and calculate their sum.
+
+Example:
+
+```bash
+sum=$((a + b))
+echo "The sum of $a and $b is: $sum"
+
+```
+
+**5️⃣ Built-in Variables:**
+
+We explored built-in variables to access useful information.
+
+Example:
+
+```bash
+echo "Current Directory: $PWD"
+echo "Home Directory: $HOME"
+
+```
+
+**6️⃣ Wildcards:**
+
+We learned to use wildcards to list files with a specific extension.
+
+Example:
+
+```bash
+ls *.txt  # Lists all .txt files in the current directory
+
+```
