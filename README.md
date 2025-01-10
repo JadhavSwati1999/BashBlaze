@@ -1,2 +1,2 @@
 # BashBlaze.
-7-Days-of-Bash-Shell-Scripting-Challenges.
+# 7-Days-of-Bash-Shell-Scripting-Challenges.
